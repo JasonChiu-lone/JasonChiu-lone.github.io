@@ -1,8 +1,11 @@
-## Secret blog of Jason Chiu
+---
+layout: single
+title: "Zijun Zhao - Resume"
+sitemap: false
+permalink: /resume/
+author_profile: TRUE
+header:
+  image: assets/images/banner.jpg
+---
 
-This webpage was built by the boring Jason on Nov.6th, 2021.
-
-Page links:
-
-1. [武林游记](/武林游记.html)
-# Header 1
+<embed src="https://github.com/JasonChiu-lone/resume/blob/main/Zhao%20Zijun%20-%20Resume.pdf" type="application/pdf" />
